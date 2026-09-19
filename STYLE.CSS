@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portfólio Maria Clara</title>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <!-- ==============================
+         HERO
+    =============================== -->
+
+    <section class="hero">
+
+        <div class="hero-text">
+
+            <span class="hero-tag">
+                ESTUDANTE DE TECNOLOGIA
+            </span>
+
+            <h1>
+                Maria Clara
+                <span>Ciriaco</span>
+            </h1>
+
+            <h2>
+                Análise e Desenvolvimento de Sistemas
+            </h2>
+
+            <p>
+                Desenvolvendo conhecimentos em tecnologia, banco de dados,
+                suporte técnico, Hardware, Help Desk e análise de sistemas,
+                em busca da minha primeira oportunidade profissional em T.I.
+            </p>
+
+            <nav class="hero-buttons">
+
+                <a href="projeto.html" class="btn-primary">
+                    Ver projetos
+                    <span>→</span>
+                </a>
+
+                <a href="https://www.linkedin.com/in/maria-clara-ciriaco-739519269/"
+                   target="_blank"
+                   class="btn-secondary">
+                    LinkedIn
+                    <span>↗</span>
+                </a>
+
+            </nav>
+
+        </div>
+
+
+        <!-- FOTO -->
+
+        <div class="hero-photo">
+
+            <div class="photo-background"></div>
+
+            <div class="photo-frame">
+
+                <img src="fotoport.jpeg" alt="Foto de Maria Clara">
+
+            </div>
+
+            <div class="tech-line"></div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         SOBRE MIM
+    =============================== -->
+
+    <section id="sobre" class="content-section">
+
+        <span class="section-tag">
+            SOBRE
+        </span>
+
+        <h2>
+            Sobre mim
+        </h2>
+
+        <p>
+            Sou estudante de Análise e Desenvolvimento de Sistemas,
+            buscando desenvolver meus conhecimentos e construir minha
+            carreira na área de tecnologia.
+        </p>
+
+    </section>
+
+
+
+    <!-- ==============================
+         HABILIDADES
+    =============================== -->
+
+    <section id="habilidades" class="content-section">
+
+        <span class="section-tag">
+            HABILIDADES
+        </span>
+
+        <h2>
+            Habilidades
+        </h2>
+
+        <div class="skill-list">
+
+            <div class="skill-item">
+
+                <h3>
+                    Consultas e manipulação de dados
+                </h3>
+
+                <p>
+                    Conhecimentos em consultas e manipulação de dados.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Resolução de problemas técnicos
+                </h3>
+
+                <p>
+                    Análise e identificação de problemas básicos.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Manutenção e configuração de sistemas
+                </h3>
+
+                <p>
+                    Conhecimentos básicos de configuração e manutenção.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Suporte técnico
+                </h3>
+
+                <p>
+                    Interesse e desenvolvimento na área de suporte e Help Desk.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Instalação e configuração de software
+                </h3>
+
+                <p>
+                    Conhecimentos básicos de instalação e configuração.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Comunicação eficaz
+                </h3>
+
+                <p>
+                    Comunicação clara e atendimento ao usuário.
+                </p>
+
+            </div>
+
+
+            <div class="skill-item">
+
+                <h3>
+                    Atendimento ao usuário
+                </h3>
+
+                <p>
+                    Foco em compreender necessidades e solucionar problemas.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         HABILIDADES TÉCNICAS
+    =============================== -->
+
+    <section id="habilidades-tecnicas" class="content-section">
+
+        <span class="section-tag">
+            TÉCNICO
+        </span>
+
+        <h2>
+            Habilidades Técnicas
+        </h2>
+
+
+        <div class="technical-group">
+
+            <h3>
+                Hardware
+            </h3>
+
+            <p>
+                Montagem e manutenção de computadores
+            </p>
+
+            <p>
+                Diagnóstico básico de problemas de hardware
+            </p>
+
+            <p>
+                Periféricos
+            </p>
+
+        </div>
+
+
+        <div class="technical-group">
+
+            <h3>
+                Suporte
+            </h3>
+
+            <p>
+                Instalação e configuração de software
+            </p>
+
+            <p>
+                Suporte ao usuário
+            </p>
+
+            <p>
+                Configuração de computadores
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         EM APRENDIZADO
+    =============================== -->
+
+    <section id="aprendizado" class="content-section">
+
+        <span class="section-tag">
+            DESENVOLVIMENTO
+        </span>
+
+        <h2>
+            Em aprendizado
+        </h2>
+
+        <div class="simple-list">
+
+            <p>
+                Fundamentos de Redes
+            </p>
+
+            <p>
+                Endereçamento IP
+            </p>
+
+            <p>
+                Configuração e identificação de redes
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         TECNOLOGIAS
+    =============================== -->
+
+    <section id="tecnologias" class="content-section">
+
+        <span class="section-tag">
+            TECNOLOGIA
+        </span>
+
+        <h2>
+            Conhecimentos em tecnologia
+        </h2>
+
+        <div class="simple-list">
+
+            <p>
+                VSCode
+            </p>
+
+            <p>
+                GitHub
+            </p>
+
+            <p>
+                Sistemas Operacionais
+            </p>
+
+            <p>
+                Fundamentos de Redes
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         FERRAMENTAS
+    =============================== -->
+
+    <section id="ferramentas" class="content-section">
+
+        <span class="section-tag">
+            FERRAMENTAS
+        </span>
+
+        <h2>
+            Ferramentas aplicadas a escritório
+        </h2>
+
+        <div class="simple-list">
+
+            <p>
+                Excel Intermediário
+            </p>
+
+            <p>
+                PowerPoint Intermediário
+            </p>
+
+            <p>
+                Word Intermediário
+            </p>
+
+            <p>
+                Trello
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         METODOLOGIAS
+    =============================== -->
+
+    <section id="metodologias" class="content-section">
+
+        <span class="section-tag">
+            METODOLOGIAS
+        </span>
+
+        <h2>
+            Metodologias
+        </h2>
+
+        <div class="simple-list">
+
+            <p>
+                Scrum Foundation
+            </p>
+
+            <p>
+                Agile
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         CONTATO
+    =============================== -->
+
+    <section id="contato" class="content-section contact">
+
+        <span class="section-tag">
+            CONTATO
+        </span>
+
+        <h2>
+            Vamos conversar?
+        </h2>
+
+        <p>
+            Estou buscando uma oportunidade para iniciar minha trajetória
+            profissional na área de Tecnologia da Informação.
+        </p>
+
+
+        <div class="contact-links">
+
+            <!-- WHATSAPP -->
+
+            <a href="https://wa.me/qr/LGGRFO53ATORG1"
+               target="_blank">
+
+                <img src="whatsapp.png"
+                     alt="Ícone do WhatsApp">
+
+                <span>
+                    WhatsApp
+                </span>
+
+            </a>
+
+
+            <!-- GMAIL -->
+
+            <a href="mailto:mariaclaraciriacoo@gmail.com">
+
+                <img src="gmail.png"
+                     alt="Ícone do Gmail">
+
+                <span>
+                    Gmail
+                </span>
+
+            </a>
+
+
+            <!-- LINKEDIN -->
+
+            <a href="https://www.linkedin.com/in/maria-clara-ciriaco-739519269/"
+               target="_blank">
+
+                <span class="linkedin-icon">
+                    in
+                </span>
+
+                <span>
+                    LinkedIn
+                </span>
+
+            </a>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ==============================
+         RODAPÉ
+    =============================== -->
+
+    <footer>
+
+        <p>
+            © 2026 Maria Clara Ciriaco
+        </p>
+
+        <p>
+            Portfólio profissional em Tecnologia da Informação
+        </p>
+
+    </footer>
+
+
+</body>
+
+</html>/* =========================================
+   PÁGINA DE PROJETOS
+========================================= */
+
+.projetos-page {
+    width: 1000px;
+    max-width: 85%;
+
+    min-height: 100vh;
+
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.projetos-page h1 {
+    font-size: 60px;
+    line-height: 1.1;
+
+    margin: 15px 0 25px;
+
+    color: #e8edf2;
+}
+
+.projetos-page h1 span {
+    display: block;
+
+    color: #477b85;
+}
+
+.projetos-page > p {
+    max-width: 650px;
+
+    color: #737e89;
+
+    font-size: 16px;
+
+    line-height: 1.8;
+
+    margin-bottom: 40px;
+}
+
+
+/* STATUS */
+
+.projeto-status {
+    width: 100%;
+
+    max-width: 650px;
+
+    padding: 35px;
+
+    background: #080d12;
+
+    border: 1px solid #182129;
+
+    border-radius: 10px;
+
+    margin-bottom: 35px;
+
+    transition: 0.3s ease;
+}
+
+.projeto-status:hover {
+    border-color: #315c64;
+
+    transform: translateY(-3px);
+
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+}
+
+
+.status-icon {
+    width: 50px;
+    height: 50px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    background: #0d171d;
+
+    border: 1px solid #315c64;
+
+    border-radius: 8px;
+
+    color: #5d9aa5;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    margin-bottom: 20px;
+}
+
+
+.projeto-status h2 {
+    color: #dfe5ea;
+
+    font-size: 22px;
+
+    margin-bottom: 8px;
+}
+
+.projeto-status h2::before {
+    content: "";
+}
+
+.projeto-status p {
+    color: #68747e;
+
+    font-size: 14px;
+}
+
+
+/* BOTÃO */
+
+.projetos-page .btn-primary {
+    text-decoration: none;
+
+    padding: 13px 22px;
+
+    border-radius: 5px;
+
+    background: #315c64;
+
+    color: #ffffff;
+
+    border: 1px solid #315c64;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    transition: 0.25s ease;
+}
+
+.projetos-page .btn-primary:hover {
+    background: #3b707a;
+
+    transform: translateY(-2px);
+}
+
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+
+    .projetos-page {
+        max-width: 90%;
+    }
+
+    .projetos-page h1 {
+        font-size: 42px;
+    }
+
+    .projeto-status {
+        padding: 25px;
+    }
+
+}
